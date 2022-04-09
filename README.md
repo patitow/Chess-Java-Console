@@ -1,5 +1,6 @@
 # Chess-Java-Switft
 Chess game made with java and switft for my object oriented programming discipline at university.
+<br>
 <br>Team of Computer Engineering students on this project:
 <br>-Matheus Souza de Oliveira
 <br>-Samuel Lima Maranhão
